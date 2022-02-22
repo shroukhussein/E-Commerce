@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Shopping</string>
+    <string name="title_activity_map">Map</string>
+    <string-array name="Gender">
+        <item>Choose Your Gender</item>
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+</resources>
